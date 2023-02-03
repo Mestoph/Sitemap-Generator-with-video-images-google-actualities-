@@ -10,20 +10,20 @@ Sitemap Generator is an application that allows you to easily generate sitemap.x
 
 This generator supports Google Additions. (see : https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=en#extensions)
 
-The elements '<changefreq>', '<lastmod>' & '<priority>' are calculated automatically.
+The elements 'changefreq', 'lastmod' & 'priority' are calculated automatically.
 
 - lastmod : Supports the last modified date of the file on the server..
 - priority : Is calculated according to the depth of the website, with various keywords ('news', 'about', 'blog', ...) and the number of links targeting a page.
-- changefreq : Is calculated using tags '<meta name="revisit-after" ... />' and with various keywords present on the pages.
+- changefreq : Is calculated using tags 'meta name="revisit-after" ... /' and with various keywords present on the pages.
 
 # French
 
-Sitemap Generator est une application qui permet de générer facilement les fichiers sitemap.xml de vos sites internet.
+Sitemap Generator est une application qui permet de gÃ©nÃ©rer facilement les fichiers sitemap.xml de vos sites internet.
 
-Ce générateur prend en compte les additions Google. (voir : https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=fr#extensions)
+Ce gÃ©nÃ©rateur prend en compte les additions Google. (voir : https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap?hl=fr#extensions)
 
-Les éléments <changefreq>, <lastmod> & <priority> sont calculés automatiquement.
+Les Ã©lÃ©ments 'changefreq', 'lastmod' & 'priority' sont calculÃ©s automatiquement.
 
-- lastmod : Prend en charge la dernière date de modification du fichier sur le serveur.
-- priority : Est calculé en fonction de la profondeur du site internet, avec divers mots-clés ('nouvelles', 'à propos de', 'blog', ...) et du nombre des liens ciblant une page.
-- changefreq : Est calculé à l'aide des balises '<meta name="revisit-after" ... />' et avec divers mots-clés présents sur les pages.
+- lastmod : Prend en charge la derniÃ¨re date de modification du fichier sur le serveur.
+- priority : Est calculÃ© en fonction de la profondeur du site internet, avec divers mots-clÃ©s ('nouvelles', 'Ã  propos de', 'blog', ...) et du nombre des liens ciblant une page.
+- changefreq : Est calculÃ© Ã  l'aide des balises 'meta name="revisit-after" ... /' et avec divers mots-clÃ©s prÃ©sents sur les pages.
